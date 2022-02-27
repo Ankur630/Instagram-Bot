@@ -47,8 +47,8 @@ async def account(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/ankur_pro'),
+						InlineKeyboardButton("🤖Other Bots", url="https://t.me/ankur_pro"),
                         
 					],
                     [
